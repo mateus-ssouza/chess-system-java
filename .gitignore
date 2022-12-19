@@ -2,8 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-chess-system.iml
-.idea
 
 ### Eclipse ###
 .apt_generated
