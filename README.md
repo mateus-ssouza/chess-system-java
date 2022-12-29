@@ -8,7 +8,7 @@ Toda a  interação com o usuário é feita através do console utilizando o tec
 ## Sobre o jogo
 <p style="text-align: justify;">
 O tabuleiro é divididos entre as linhas de 1 à 8 e as colunas de a à h. O jogo inicia com as peças brancas, onde um usuário
-por turno pode efetuar sua jogada inserindo o caminho que deseja movimentar sua peça. O jogo terminar após o XEQUE-MATE.
+por turno pode efetuar sua jogada inserindo o caminho que deseja movimentar sua peça. O jogo termina após o XEQUE-MATE.
 </p>
 
 ## Execução
